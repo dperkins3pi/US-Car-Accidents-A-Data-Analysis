@@ -1,0 +1,5 @@
+This is a research project from the modeling with data and uncertainty course at BYU (MATH 402). I worked with a group of 3 to anaylze a dataset about US car accidents, in an attempt to determine which factors correlate the most with high severity levels.
+
+**Research Project Abstract**
+
+Every year, tens of thousands of people across America die in automobile accidents. Our analysis aims to provide actionable insights for policymakers and the transportation industry to mitigate accident severity and improve road safety. We base our results on Kaggle's US Accidents dataset, which contains information about the conditions and severity of 7.7 million accidents across America. We use Principal Component Analysis and Spearman's rank correlation to highlight key determinants such as road length affected, wind chill, and the presence of traffic signals. We analyze how accident trends evolved during the global pandemic of 2020. Furthermore, we employ a variety of predictive models, including Multinomial Regression, Random Forest, and K-Nearest Neighbors to reveal key insights from the data.
